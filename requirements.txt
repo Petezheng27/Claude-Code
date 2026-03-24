@@ -1,0 +1,4 @@
+anthropic>=0.40.0
+ebooklib>=0.18
+markdown>=3.5
+Pillow>=10.0
